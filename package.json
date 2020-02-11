@@ -41,7 +41,7 @@
     "karma-ng-scenario": "~0.1.0",
     "karma-phantomjs-launcher": "~0.2.1",
     "karma-traceur-preprocessor": "~0.4.0",
-    "lodash": "~3.10.1",
+    "lodash": "4.17.15",
     "main-bower-files": "~2.11.0",
     "phantomjs": "^2.1.7",
     "run-sequence": "~1.1.5",
